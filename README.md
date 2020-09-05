@@ -12,4 +12,3 @@ API & data Powered by CoinDesk:
 
 
 
-BTCPriceWebApp2.png
