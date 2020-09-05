@@ -10,3 +10,6 @@ Made using Dash Data Table:
 API & data Powered by CoinDesk:
 - https://www.coindesk.com/price/bitcoin
 
+
+
+BTCPriceWebApp2.png
